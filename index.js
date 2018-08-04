@@ -1,5 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
+/// The Key is hidden on GitHub, I don't want anyone controlling my bot
 const key = '';
 
 var helpList = ['I can flip a coin for you if you type "JubsCoinFlip"',
