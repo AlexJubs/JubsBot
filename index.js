@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const key = 'NDc0NzE1MzI0NjIxNzgzMDYz.DkUhdg.pCci0P5pbVy4nq6hUoYPWFSzCf0';
+const key = '';
 
 var helpList = ['I can flip a coin for you if you type "JubsCoinFlip"',
                 'I can roll a dice for you if you type "JubsDiceRoll"',
